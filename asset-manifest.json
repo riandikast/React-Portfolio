@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.962ef760.css",
+    "main.js": "/React-Portfolio/static/js/main.752f7d16.js",
+    "static/js/787.ec704a7a.chunk.js": "/React-Portfolio/static/js/787.ec704a7a.chunk.js",
+    "static/media/game.jpg": "/React-Portfolio/static/media/game.09c1cd85942a52a9d8c2.jpg",
+    "static/media/github.png": "/React-Portfolio/static/media/github.fcfc0195950a7e59a9a4.png",
+    "static/media/porto1.jpeg": "/React-Portfolio/static/media/porto1.aded4243bbf82380097e.jpeg",
+    "static/media/porto5.jpeg": "/React-Portfolio/static/media/porto5.e3b300d3b8233c1db1ba.jpeg",
+    "static/media/porto3.jpeg": "/React-Portfolio/static/media/porto3.1bc340bd94605dbc1445.jpeg",
+    "static/media/porto2.jpeg": "/React-Portfolio/static/media/porto2.724a5bd29df235da684b.jpeg",
+    "static/media/porto4.jpeg": "/React-Portfolio/static/media/porto4.7a951bb20b94e7777e2d.jpeg",
+    "static/media/porto6.jpeg": "/React-Portfolio/static/media/porto6.b53d997dc726aa6a7137.jpeg",
+    "static/media/multimedia.jpg": "/React-Portfolio/static/media/multimedia.b710be0b41c6a969874a.jpg",
+    "static/media/mobile.png": "/React-Portfolio/static/media/mobile.1709e5ff264efea94e2b.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.962ef760.css.map": "/React-Portfolio/static/css/main.962ef760.css.map",
+    "main.752f7d16.js.map": "/React-Portfolio/static/js/main.752f7d16.js.map",
+    "787.ec704a7a.chunk.js.map": "/React-Portfolio/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962ef760.css",
+    "static/js/main.752f7d16.js"
+  ]
+}
