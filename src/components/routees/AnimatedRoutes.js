@@ -20,6 +20,7 @@ function AnimatedRoutes() {
   return (
     <AnimatePresence>
       <Routes location={location} key={location.pathname}>
+        <Route path="/React-Portfolio/" element={<Home />} />
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About></About>}></Route>
         <Route path="/interest" element={<Interest/>}></Route>
