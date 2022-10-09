@@ -13,25 +13,25 @@ export default class Interest extends Component {
         animate={{ opacity: 1 }}
         exit={{ opacity: 1 }}
       >
-        <div className=" bg-github-darker-blue w-full h-full ml-60 fixed ">
+        <div className=" bg-github-darker-blue w-full h-full ml-44 fixed ">
           <div className="text-white" >
-            <div className="flex h-96 mt-4 ml-24">
+            <div className="flex h-96 mt-2 ml-20">
               <div>
                 <div className=" space-x-80 text-white mr-8 font-google text-3xl font-semibold  mt-32 ">
                   <div className="mr-8"> Interest</div>
                 </div>
                 <div className="flex">
-                  <div className="mr-12   text-white font-google text-lg font-semibold ml-2 mt-8">
+                  <div className="mr-12 text-white font-google text-lg font-semibold ml-2 mt-8">
                     Mobile Development
                     <img
-                      className="mt-4"
+                      className="mt-4 ml-6"
                       src={Mobile}
                       alt=""
                       height="170"
                       width="180"
                     />
                   </div>
-                  <div className="mr-12   text-white font-google text-lg font-semibold ml-2 mt-8">
+                  <div className="mr-12 text-white font-google text-lg font-semibold ml-2 mt-8">
                     Game Development
                     <img
                       className="mt-4"

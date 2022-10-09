@@ -4,15 +4,15 @@ import Pp from "../assets/github.png";
 export default class Avatar extends Component {
   render() {
     return (
-      <div className="mt-6">
-        <svg
+      <div className="mt-8 ">
+        <svg className="h-340 w-340  "
           viewBox="0 0 180 180"
           xmlns="http://www.w3.org/2000/svg"
           style={{
             display: "block",
             position: "absolute",
-            height: "370px",
-            width: "370px",
+        
+         
           }}
         >
           <mask id="mask0" mask-type="alpha">

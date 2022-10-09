@@ -5,17 +5,17 @@ import CleverClass from "../../assets/porto4.jpeg";
 export default class DekstopApp extends Component {
   render() {
     return (
-      <div className="mt-12">
+      <div className="mt-12 ml-6">
         <div className="flex ml-20">
           <div className="">
-            <img className="mt-4" src={Ms} alt="" height="170" width="180" />
+            <img className="mt-4" src={Ms} alt="" height="225" width="225" />
           </div>
 
           <div className="">
-            <div className="text-lg font-extrabold text-left mt-8 ml-6 ">
+            <div className="text-sm font-extrabold text-left mt-4 ml-6 ">
               Monster Shooter
             </div>
-            <div className="text-xs mt-2 ml-6 ">
+            <div className="text-xs mt-2 ml-6 text-left ">
               2D Dekstop game, the concept is like metal slug but with character
               skill, created using python (pygame)
             </div>
@@ -28,7 +28,7 @@ export default class DekstopApp extends Component {
           </div>
 
           <div className="">
-            <div className="text-lg font-extrabold text-left mt-8 ml-6 ">
+            <div className="text-sm font-extrabold text-left mt-8 ml-6 ">
               Clever Class
             </div>
             <div className="text-xs mt-2 ml-6 ">

@@ -11,16 +11,16 @@ export default class MobileApp extends Component {
               className="mt-4"
               src={Movflix}
               alt=""
-              height="160"
-              width="160"
+              height="200"
+              width="200"
             />
           </div>
 
           <div className="">
-            <div className="text-lg font-extrabold text-left mt-16 ml-6 ">
+            <div className="text-lg font-extrabold text-left mt-16 ml-8 ">
               Movflix
             </div>
-            <div className="text-xs mt-2 ml-6 ">
+            <div className="text-xs mt-2 ml-8 text-left">
               Simple android application created using kotlin that showing movie
               data from API with trailer and description
             </div>
@@ -39,10 +39,10 @@ export default class MobileApp extends Component {
           </div>
 
           <div className="">
-            <div className="text-lg font-extrabold text-left mt-16 ml-6 ">
+            <div className="text-lg font-extrabold text-left mt-16 ">
               Secondhand
             </div>
-            <div className="text-xs mt-2 ml-6 text-left   ">
+            <div className="text-xs mt-2 text-left   ">
               This is an E-Commerce Application using an Android Platform named
               SecondHand that is held by Binar Academy for graduation
               requirements. In this application, we can buy and sell second

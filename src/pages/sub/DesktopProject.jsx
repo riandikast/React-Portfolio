@@ -10,10 +10,10 @@ export default class Desktop extends Component {
         animate={{ opacity: 1 }}
         exit={{ opacity: 1 }}
       >
-        <div className=" bg-github-darker-blue w-full h-full ml-60 fixed ">
+        <div className=" bg-github-darker-blue w-full h-full ml-44 fixed ">
           <div className="text-white">
-            <div className=" text-white mr-60 font-google text-3xl font-semibold  mt-20 ">
-              <div className="mr-8">Desktop Project</div>
+            <div className=" text-white mr-60 font-google text-3xl font-semibold  mt-12 ">
+              <div className="mr-8 ml-16">Desktop Project</div>
               <DekstopApp />
             </div>
           </div>

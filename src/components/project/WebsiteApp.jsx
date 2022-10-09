@@ -7,7 +7,7 @@ export default class WebsiteApp extends Component {
       <div className="mt-12">
         <div className="flex ml-20">
           <div className="">
-            <img className="mt-4" src={Motor} alt="" height="170" width="180" />
+            <img className="mt-4" src={Motor} alt="" height="230" width="230" />
           </div>
 
           <div className="">
@@ -22,7 +22,7 @@ export default class WebsiteApp extends Component {
 
         <div className="flex ml-20 mt-12">
           <div className="">
-            <img className="mt-4" src={Tech} alt="" height="200" width="180" />
+            <img className="mt-4" src={Tech} alt="" height="360" width="360" />
           </div>
 
           <div className="">

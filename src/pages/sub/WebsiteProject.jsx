@@ -11,10 +11,10 @@ export default class Website extends Component {
         animate={{ opacity: 1 }}
         exit={{ opacity: 1 }}
       >
-        <div className=" bg-github-darker-blue w-full h-full ml-60 fixed ">
+        <div className=" bg-github-darker-blue w-full h-full ml-44 fixed ">
           <div className="text-white">
-            <div className=" text-white mr-60 font-google text-3xl font-semibold  mt-20 ">
-              <div className="mr-8">Website Project</div>
+            <div className=" text-white mr-60 font-google text-3xl font-semibold  mt-16 ">
+              <div className="mr-8 ml-20  ">Website Project</div>
               <WebsiteApp/>
             </div>
           </div>
